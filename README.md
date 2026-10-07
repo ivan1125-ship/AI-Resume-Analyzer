@@ -1,1 +1,1 @@
-Initialize AI Resume Analyzer project
+AI-Resume-Analyzer
